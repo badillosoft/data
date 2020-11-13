@@ -18,3 +18,7 @@ Les agradezco mucho su colaboración y pueden dejar sus proyectos completos en:
 https://drive.google.com/drive/folders/1DsffzYtAwgco4ZJTTaNpEAOYw_rOTwqZ?usp=sharing
 
 Les recomiendo crear una carpeta con su nombre y curriculum para que quede a modo portafolio.
+
+## Webinars
+
+13 de noviembre de 2020 - Construcción de bases de datos políticas - https://youtu.be/h4qbtf73Vu4
