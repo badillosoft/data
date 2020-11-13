@@ -21,4 +21,4 @@ Les recomiendo crear una carpeta con su nombre y curriculum para que quede a mod
 
 ## Webinars
 
-13 de noviembre de 2020 - Construcción de bases de datos políticas - https://youtu.be/h4qbtf73Vu4
+*13 de noviembre de 2020* - **Construcción de bases de datos políticas** - https://youtu.be/h4qbtf73Vu4
